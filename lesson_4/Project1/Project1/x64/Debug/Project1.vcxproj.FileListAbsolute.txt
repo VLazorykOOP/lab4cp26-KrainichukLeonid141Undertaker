@@ -1,0 +1,4 @@
+D:\code\унік\Практика\lesson_4\Project1\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+D:\code\унік\Практика\lesson_4\Project1\Project1\x64\Debug\Project1.MyForm.resources
+D:\code\унік\Практика\lesson_4\Project1\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
+D:\code\унік\Практика\lesson_4\Project1\Project1\x64\Debug\Project1.AddForm.resources
